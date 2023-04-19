@@ -1,0 +1,123 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .collagetable {
+    width: 30vw;
+    /* margin: 10px; */
+    margin: auto;
+    text-align:  center;
+    
+    margin-top: 40px;
+    border: 1px solid black;
+    padding: 10px;
+    
+  }
+  td{
+    cursor: pointer;
+  }
+  .collagetable tr,td,th{
+    border: 1px solid black;
+  }
+
+  img{
+    width: 20px;
+    height: 20px;
+  }
+
+
+  .chekbtn{
+    outline: none;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: white;
+    /* width: 30px; */
+    margin-left: 20px !important;
+  }
+  .cont{
+    position: relative;
+    
+    
+    /* filter: blur(10px); */
+    
+  }
+
+  .hide{
+    position: absolute;
+    /* filter: blur(0px) !important; */
+    top: 100px;
+    border: 1px solid black;
+    border-radius: 30px;
+    left: 35%;
+    padding-top: 10px;
+    /* transition: blur 2s ease ; */
+  }
+.pad{
+  padding: 10px 30px;
+  padding-top: 0;
+}
+  .flex{
+    display: flex;
+    justify-content: space-between;
+  }
+input{
+  height: 35px;
+  border: 1px solid black;
+  border-radius: 5px;
+  /* background-color: #0096ff; */
+  
+  padding: 3px;
+  margin-top: 3px;
+  
+}
+option,select{
+  /* background-color: #0096ff; */
+}
+  .name input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .email input{
+    /* margin-left: 10px; */
+    /* margin-right: 10px; */
+    /* width: calc(100% - 10px); */
+    width: 100%;
+    float: right;
+    /* margin-bottom: 40px; */
+  }
+  .email{
+    margin-bottom: 20px;
+  }
+
+  .btn{
+    background-color: aqua;
+    padding: 5px 20px;
+    margin:10px 20px;
+    height: 35px;
+    /* width: 100px; */
+  }
+  .btns{
+    justify-content: space-around;
+    margin-top: 40px;
+  }
+
+  select{
+    margin-top: 3px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 175px;
+    padding: 5px 10px;
+    height: 35px;
+  }
+
+  .datefield
+  {
+    justify-content: space-between;
+  }
+  .datefield input{
+    width: 175px;
+    margin-right: 10px;
+    padding: 5px 10px;
+  }

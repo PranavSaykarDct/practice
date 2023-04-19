@@ -1,0 +1,48 @@
+{
+  "collage": [
+    {
+      "title": "PICT",
+      "id": 2
+    },
+    {
+      "title": "PCCOE",
+      "id": 3
+    },
+    {
+      "title": "JSPM",
+      "id": 4
+    }
+  ],
+  "students": [
+    {
+      "fname": "rushikesh ",
+      "lname": "susar",
+      "email": "rushi@gmail.com",
+      "phone": "1231231231",
+      "clgname2": "PICT",
+      "gender": "Male",
+      "dob": "2023-04-12",
+      "id": 2
+    },
+    {
+      "fname": "Vinayak",
+      "lname": "Kamthe",
+      "email": "vinay@gmail.com",
+      "phone": "0980980980",
+      "clgname2": "PCCOE",
+      "gender": "Female",
+      "dob": "2023-04-03",
+      "id": 4
+    },
+    {
+      "fname": "Pranav",
+      "lname": "Saykar",
+      "email": "pranav@gmail.com",
+      "phone": "1231231231",
+      "clgname2": "JSPM",
+      "gender": "Male",
+      "dob": "2023-03-30",
+      "id": 5
+    }
+  ]
+}
